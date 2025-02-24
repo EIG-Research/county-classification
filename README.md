@@ -56,12 +56,10 @@ Counties are categorized along the urban-rural spectrum using the following crit
 Note: you will need to install and configure [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage) if you have not done so already in order to access the shapefiles (data/shapefiles.zip), as well as tract classification data (tracts classification/EDGE_Locale19_US/EDGE_Locale19_US.zip)
 
 Code:
-1. Dataset wrangling
-
-  a. CSVs Cleaning Script (cleans raw CSV files)
-  
-  b. Shapefile Cleaning Script (cleans up raw shapefiles)
-
-2. Locale County Classification
-
-  a. Classifies counties based on the above definitions.
+<ol>
+<li>Dataset wrangling</li>
+<ol><li>CSVs Cleaning Script (cleans raw CSV files)</li>
+<li>Shapefile Cleaning Script (cleans up raw shapefiles)</li></ol>
+<li>Locale County Classification</li>
+<ol><li>Classifies counties based on the above definitions.</li></ol>
+</ol>
