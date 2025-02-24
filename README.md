@@ -53,7 +53,7 @@ Counties are categorized along the urban-rural spectrum using the following crit
 
 <h2>Github structure</h2>
 
-Note: you will need to install and configure [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage) if you have not done so already in order to access the shapefiles (data/shapefiles.zip), as well as tract classification data (tracts classification/EDGE_Locale19_US/EDGE_Locale19_US.zip)
+Note: you will need to install and configure [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage) if you have not done so already in order to access the shapefiles (data/shapefiles.zip), as well as tract classification data (tracts classification/EDGE_Locale19_US/EDGE_Locale19_US.zip). Other files are ziped for storage purposes. You will need to unzip prior to running the code.
 
 Code:
 <ol>
